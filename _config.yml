@@ -1,6 +1,6 @@
 # main text of home
 name: Kairit Usk
-bio: Tervise nõustaja toitumise alal
+bio: Tervisenõustaja toitumise alal
 
 # twitter summary info
 description: Best Estonian Nutritional Advisor's homepage.
@@ -50,12 +50,12 @@ disqus:
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: kairit.usk@gmail.com
 
 authors:
     johndoe:
         name: Kairit Usk
-        bio: Tervise nõustaja toitumise alal.
+        bio: Tervisenõustaja toitumise alal.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
