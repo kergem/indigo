@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: https://kergem.github.io/
 
-url: https://koppl.in/indigo
+url: https://kergem.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,20 +34,20 @@ disqus:
   categories: #[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-##twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-#github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: kairit.usk@gmail.com
@@ -58,7 +58,7 @@ authors:
         bio: Tervisenõustaja toitumise alal.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        #twitter: johndoe
 #    jamesfoster:
 #        name: James Foster
 #        bio: A Man who develops software with coffee
