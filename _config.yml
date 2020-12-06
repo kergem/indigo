@@ -12,11 +12,10 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: false
-resume-url: https://kergem.github.io/
+resume-url: resume
 
-url: https://kergem.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -58,7 +57,6 @@ authors:
         bio: Tervisenõustaja toitumise alal.
         external-image: false
         picture: assets/images/profile.jpg
-        #twitter: johndoe
 #    jamesfoster:
 #        name: James Foster
 #        bio: A Man who develops software with coffee
@@ -108,7 +106,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://kergem.ee
 
 compress_html:
     ignore:
