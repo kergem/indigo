@@ -20,13 +20,13 @@ layout: page
 	<li>Eesti Gerontoloogia ja Geriaatria Assotsiatsiooni teabepepäev 2018</li>
 	<li>Konverents "Laste toitumine" 2018</li>
 	<li>Koolitus "Terved luud ja liigesed" 2018</li>
-	<li>TÜ konverents "Mikrobioota ja funktsionaalse toitumine" 2018</li>
-	<li>Koolitus "Detoks tänapäeva maailmas 2019</li>
+	<li>TÜ konverents "Mikrobioota ja funktsionaalne toitumine" 2018</li>
+	<li>Koolitus "Detoks tänapäeva maailmas" 2019</li>
 	<li>Koolitus "Naha tervis ja toitumine" 2019</li>
 	<li>Konverents "Vaimne tervis" 2019</li>
 	<li>Konverents "Suhkur - kas magus enesetapp või eluks vajalik toiduaine" 2019</li>
 	<li>Konverents "Toitumise mitu palet" 2019</li>
-	<li>Koolitus "Selektiivne j asensoorne toitumishäire lastel" 2019</li>
+	<li>Koolitus "Selektiivne ja sensoorne toitumishäire lastel" 2019</li>
 	<li>Koolitus "Imikute eakohane toitmine" 2019</li>
 	<li>Ettevõtluskursus ja äriplaani koostamine 2019-2020</li>
 	<li>Raamatupidamiskursus 2020</li>
@@ -41,9 +41,9 @@ layout: page
 <h2>Tehtud</h2>
 
 <ul>
-	<li>Ettekanne "Food & Kids – how to give your kids the best start in the beautiful world of food</li>
-	<li>Webinari esitlus "Suhkur – mis see on, milleks eda vaja on ja kuidas vähendada liigtarbimist?"</li>
+	<li>Ettekanne "Food & Kids – how to give your kids the best start in the beautiful world of food"</li>
+	<li>Veebiseminari esitlus "Suhkur – mis see on, milleks seda vaja on ja kuidas vähendada suhkru liigtarbimist?"</li>
 	<li>Toiduliidu kampaania "Sealiha – hea liha" veebilehe tüvitekst – https://toiduliit.ee/sealiha/ </li>
-	<li>Artikkel "Toitumisnõustajat tuletavad meelde, kuidas jõulud üle elada lisakilodeta" https://mood.ee/uudis/toitumisnoustajad-tuletavad-meelde-kuidas-joulud-ule-elada-lisakilodeta/</li>
+	<li>Artikkel "Toitumisnõustajad tuletavad meelde, kuidas jõulud üle elada lisakilodeta" https://mood.ee/uudis/toitumisnoustajad-tuletavad-meelde-kuidas-joulud-ule-elada-lisakilodeta/</li>
 	<li>www.salenemiseakadeemia.ee</li>
 </ul>
